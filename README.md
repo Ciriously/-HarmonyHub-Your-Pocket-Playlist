@@ -1,4 +1,4 @@
-# RD Music Player - Redefined Music Player
+# Music Player - Adi Music Player
 **A pretty UI&UX Music Player**
 
 ## Features
@@ -11,10 +11,6 @@
 * Metadata editor
 * Learn your hobby, automatically create new playlist
 * etc
-
-### License
-
-* This project is licensed under The GNU General Public License v3.0 - see the [LICENSE.md](/LICENSE) file for details
 
 ### Acknowledgments
 
